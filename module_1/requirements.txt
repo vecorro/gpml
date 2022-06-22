@@ -1,8 +1,7 @@
-feast
-ray > 1.5
+feast >= 0.21.3
 xgboost
 mlflow
 sklearn
-xgboost_ray
 jupyterlab
 pyinstrument >= 3.4
+great_expectations

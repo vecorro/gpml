@@ -7,8 +7,6 @@ This module will focus on understanding key concepts and Feast objects. In this 
 
 In particular, we'll cover the following:
  * Introduction to Feature Stores
-   * what are they, what problems they solve, and why you need them
-   * What is Feast and why
    * Key concepts in Feast
      * Projects
      * Feast Repos
@@ -17,4 +15,31 @@ In particular, we'll cover the following:
      * Features and Features Views
      * Feature Service
      * Offline & Online Stores
-   
+   * Learn Feast APIs
+     * Declare and define Feast Object using Feast Declarative APIs
+     * Use an IDE, Google Colab or Jupyter Notebook demonstrating how to use Feast APIs
+
+
+![](images/feast_concepts.png)
+
+### Feast Talks Worth Watching
+
+[Watch Video 1](https://www.youtube.com/watch?v=6OCUMbEtSLU)
+
+[Watch Video 2](https://youtu.be/vMreZGyYrh8)
+
+
+### Steps
+#### Step 1: 
+``` conda create --name feast_workshop ```
+#### Step 2:
+``` conda activate feast_workshop ```
+#### Step 3: 
+``` 
+pip install -r requirements.txt
+pip install ipykernel 
+python -m ipykernel install --user --name feast_workshop
+```
+#### Step 4:
+> Go to the feature_repo/notebook directory to run the driver.ipynb Jupyter notebook that will walk you through the 
+initial concepts about Feast.
