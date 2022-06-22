@@ -31,3 +31,8 @@ The changes on the original repo are as follows:
 - Fixed the ML modeling parts that were incorrect.
 - Added ```module 4``` to include a demonstration on how to combine Feast with the Great Expectations' library to conduct
   data validation tasks.
+
+### Instructions
+Please proceed to ```Module 1``` and follow the instruction provided in the ```README.md``` file of that directory. 
+After completing ```Module 1``` you need to proceed to ```Module2```. ```Modules 3 and 4``` are independent from the 
+previous two but more advanced. You may do these last two in any order.
