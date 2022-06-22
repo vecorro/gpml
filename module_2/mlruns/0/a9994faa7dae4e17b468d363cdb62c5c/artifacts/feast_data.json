@@ -1,0 +1,9 @@
+{
+  "features": [
+    "driver_hourly_stats:conv_rate",
+    "driver_hourly_stats:acc_rate",
+    "driver_hourly_stats:avg_daily_trips"
+  ],
+  "feast_feature_service": "driver_ranking_fv_svc",
+  "feast_feature_data": "driver_hourly_stats"
+}

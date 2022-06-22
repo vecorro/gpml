@@ -1,0 +1,8 @@
+feast
+ray > 1.5
+xgboost
+mlflow
+sklearn
+xgboost_ray
+jupyterlab
+pyinstrument >= 3.4

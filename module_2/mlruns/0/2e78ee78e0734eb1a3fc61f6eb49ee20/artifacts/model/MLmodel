@@ -1,0 +1,22 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.10.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.1.1
+mlflow_version: 1.26.1
+model_uuid: 307729ae80f0478da374b00f4f258661
+run_id: 2e78ee78e0734eb1a3fc61f6eb49ee20
+signature:
+  inputs: '[{"name": "acc_rate", "type": "double"}, {"name": "avg_daily_trips", "type":
+    "long"}, {"name": "conv_rate", "type": "double"}, {"name": "driver_id_1", "type":
+    "long"}, {"name": "driver_id_2", "type": "long"}, {"name": "driver_id_3", "type":
+    "long"}, {"name": "driver_id_4", "type": "long"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+utc_time_created: '2022-06-20 20:25:43.121328'
