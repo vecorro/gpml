@@ -1,27 +1,0 @@
-
-Q
-1
-	driver_id	driver id"	driver_idJfeature_repo
-ÏÃÌ•ğ§‡³ÏÃÌ•ğ§‡³
-E
-%
-__dummy"
-__dummy_idJfeature_repo
-ÏÃÌ•¨¶Š³ÏÃÌ•¨¶Š³1"$6107b50a-05b8-45c9-ade4-31385863b7f5*ÏÃÌ•€£ô‡2ä
-é
-driver_hourly_statsfeature_repo	driver_id"
-	conv_rate"
-acc_rate"
-avg_daily_trips2€ç„:ıdatetime*createdZ˜•/Users/kike/Library/CloudStorage/OneDrive-VMware,Inc/OCTO/2022-H1/Taurus/Feast/feast_workshops-master/module_1/feature_repo/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢•/Users/kike/Library/CloudStorage/OneDrive-VMware,Inc/OCTO/2022-H1/Taurus/Feast/feast_workshops-master/module_1/feature_repo/data/driver_stats.parquet@v
-º÷Ã•ˆÜˆ¬ÏÃÌ•à×Ø‡
-˜¿†ğÈß’ÿÃ•Ø·”’
-ÿÃ•Ø·”’ƒ¾Ì• ìÓ·
-ƒ¾Ì• ìÓ·ÏÃÌ•°Ëñæ:½
-œ
-driver_ranking_fv_svcfeature_repoG
-driver_hourly_stats
-	conv_rate
-acc_rate
-avg_daily_trips",
-descriptionUsed for training a MLP model
-ÏÃÌ•ø¿Œ³ÏÃÌ•ø¿Œ³bŒdatetime*createdZ˜•/Users/kike/Library/CloudStorage/OneDrive-VMware,Inc/OCTO/2022-H1/Taurus/Feast/feast_workshops-master/module_1/feature_repo/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢•/Users/kike/Library/CloudStorage/OneDrive-VMware,Inc/OCTO/2022-H1/Taurus/Feast/feast_workshops-master/module_1/feature_repo/data/driver_stats.parquetªfeature_repo
